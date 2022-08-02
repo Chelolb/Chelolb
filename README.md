@@ -1,4 +1,4 @@
-<code><img width="10%" src="https://www.github.com/Chelolb/Chelolb/assets/portada.jpeg"></code>
+<code><img width="10%" src="https://www.github.com/Chelolb/Chelolb/tree/main/assets/portada.jpeg"></code>
 <h2 align="center">
 Helo! 👋... I`m Full Stack Developer from Argentina to 🌎
 </h2>
