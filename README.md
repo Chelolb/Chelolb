@@ -2,11 +2,13 @@
 <h2 align="center">
 Helo! 👋... I`m Full Stack Developer from Argentina to world🌎
 </h2>
-
 &nbsp;&nbsp;
-
-
+<p>
+I'm an argentine electronic engineer, passionate about hardware and software. I have experience in developing desktop applications and currently I'm focused on web development, the use of AGILE methodologies and learning new platforms and technologies for their application in various fields. I have been researching and training for 2 years and recently I have acquired a certification in full stack web development. I take advantage of this medium to share some of my experiences and skills.
+</p>
+<h2>
 ## 🛠️ Languages and Tools:
+</h2>
  I'm working with the following technologies:
    <br />
   HTML, CSS, JavaScript,
