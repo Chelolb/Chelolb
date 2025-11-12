@@ -40,7 +40,8 @@ I'm an argentine electronic engineer, passionate about hardware and software. I 
 ## ⚡ Contac me:
 </h2>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40"/>marcelolitwin@gmail.com
+<a href="mailto:marcelolitwin@gmail.com> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail" width="40" height="40"/>marcelolitwin@gmail.com
+alt="Gmail" width="40" height="40"/> </a>
 </p>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40"/> https://www.linkedin.com/in/marcelolitwin-fullstack-developer
