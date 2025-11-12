@@ -23,7 +23,7 @@ I'm an argentine electronic engineer, passionate about hardware and software. I 
 <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a>-->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.png" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:3440/1%2AWcRnU2ERqYHZBKBQ0zXCvg.png" alt="redux" width="40" height="40"/> 
 
   <br />
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
