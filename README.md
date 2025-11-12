@@ -4,7 +4,7 @@ Helo! 👋... I`m Full Stack Developer from Argentina to world🌎
 </h2>
 &nbsp;&nbsp;
 <p>
-I'm an argentine electronic engineer, passionate about hardware and software. I have experience in developing desktop applications and currently I'm focused on web development, the use of AGILE methodologies and learning new platforms and technologies for their application in various fields. I have been researching and training for 2 years and recently I have acquired a certification in full stack web development. I take advantage of this medium to share some of my experiences and skills.
+I'm an argentinian electronics engineer, passionate about hardware and software. I have experience developing desktop applications and am currently focused on mobile and web application development, using agile methodologies, and learning new platforms and technologies for application in various fields. I've spent four years researching and training, and in 2022 I obtained a full-stack web development certification. I'd like to use this platform to share some of my experiences and projects I've worked on.
 </p>
 <h2>
 ## 🛠️ Languages and Tools:
